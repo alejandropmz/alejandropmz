@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Bienvenido a mi perfil</h1>
+<h1 style="text-align:center">Bienvenido a mi perfil⚡</h1>
