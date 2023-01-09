@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alejandropmz/alejandropmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,53 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- <link rel="stylesheet" href="styles.css"> -->
-  <style>
-    *{
-      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    }
-    .center {
-    margin: auto;
-    margin-top: 20px;
-    border: 1px gray solid;
-    border-right: none;
-    border-left: none;
-    width: 60%;
-    height: 100%;
-    }
-    .imgs {
-      display: flex;
-      justify-content: left;
-      margin-right: 850px;
-      margin-bottom: 20px;
-      height: 30px;
-      width: 30px;
-    }
-  </style>
-  <title>Document</title>
-</head>
-
-<body>
-  <div align="center" class="header">
-    <h1 class="text">Bienvenido a mi perfil⚡</h1>
+  <div align="center">
+    <h1>Bienvenido a mi perfil⚡</h1>
     <br>
     <img id="img" src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" alt="">
-    <h3>Mi nombre es <i>Alejandro Pacheco</i> Desarrollador Full Stack</h3>
+    <h3>Print("<i>Alejandro Pacheco</i> Desarrollador Full Stack")</h3>
+    <h2>Mi nombre es Alejandro Pacheco y soy desarrollador full stack especializado en HTML, CSS, Javascript y Python. Actualemente estudiante de base de datos y frameworks como Flask. Si necesitas saber algo más de mi estaré encantado de respoderte 😄</h2>
+  <h2>¡Trabajemos en equipo! 👯</h2>
     <a href="https://twitter.com/alejandropachem" target="_blank">
       <img
         src="https://img.shields.io/twitter/url?label=follow%20%40alejandropachem&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Falejandropachem"
         alt="">
     </a>
   </div>
-  <div align="center" class="center">
+  <div align="left" class="center">
     <h2 align="left">Habilidades🌱</h2>
     <ul align="left">
       <li><strong>HTML y CSS</strong></li>
@@ -83,13 +48,13 @@ Here are some ideas to get you started:
     <ul align="left">
       <li><strong>alejandropacheco2497@gmail.com 💌</strong></li>
     </ul>
-    <h2 align="left">Habilidades 🕹️</h2>
-    <div class="imgs" align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="">
+    <div align="left">
+      <h2 align="left">Habilidades 🕹️</h2>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRI" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PY" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40" />
+      </div>
     </div>
-</body>
 
-</html>
