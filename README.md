@@ -39,7 +39,7 @@ Here are some ideas to get you started:
       <li><strong>SQLAlchemy</strong></li>
       <li><strong>Flask</strong></li>
     </ul>
-    <h2 align="left">Actualmente trabajando en equipo en🔭</h2>
+    <h2 align="left">Actualmente trabajando en equipo para🔭</h2>
     <ul align="left">
       <li><strong>Nuestra propia red social 📫</strong></li>
       <li><strong>Más y más inglés😄</strong></li>
