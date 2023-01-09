@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div styles="align=center">
+  <h1>Bienvenido a mi perfil⚡</h1>
+  <img src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif"
+</div>
 
-<h1 style="text-align:center">Bienvenido a mi perfil⚡</h1>
+  
