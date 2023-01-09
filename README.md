@@ -14,9 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div styles="align=center">
-  <h1>Bienvenido a mi perfil⚡</h1>
-  <img src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif"
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div align="center" class="header">
+        <h1 class="text">Bienvenido a mi perfil⚡</h1>
+        <br>
+        <img id="img" src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" alt="">
+        <h3>Mi nombre es <i>Alejandro Pacheco</i> Desarrollador Full Stack</h3>
+    </div>
+</body>
+</html>
 
   
