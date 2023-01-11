@@ -31,6 +31,7 @@ Here are some ideas to get you started:
     <ul align="left">
       <li><strong>HTML y CSS</strong></li>
       <li><strong>Javascript</strong></li>
+      <li><strong>Bootstrap</strong></li>
       <li><strong>Python</strong></li>
       <li><strong>React</strong></li>
     </ul>
