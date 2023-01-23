@@ -16,10 +16,19 @@ Here are some ideas to get you started:
     <h1>Bienvenido a mi perfil⚡</h1>
     <br>
     <img id="img" src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" alt="">
-    <h1>Print("<i>Alejandro Pacheco</i> Desarrollador Full Stack")</h1>
-    <h2>Mi nombre es Alejandro Pacheco y soy desarrollador full stack especializado en HTML, CSS, Javascript y Python. Actualemente estudiante de base de datos y frameworks como Flask. Si necesitas saber algo más de mi estaré encantado de respoderte 😄</h2>
-  <h2>Me encantaría trabajar en proyectos de todo tipo, sobretodo aquellos en los cuales sea indispensable poner a prueba las habilidades indispensables para un programador.<br><br>"Si algo te hace incomodar es porque es algo que realmente vale la pena🤸‍♀️"</h2>
-  <h2>¡Trabajemos en equipo! 👨‍👧‍👧👨‍👦</h2>
+    <h3>Print("<i>Alejandro Pacheco</i> Desarrollador de software Full Stack") 🐍</h3>
+  </div>
+  <div align="left" class="start">
+    <h4>Sobre mí:</h4>
+    <p>✔️ Enfocado en nuevos retos y proyectos</p>
+    <p>🚀 Proactivo y con ganas de aprender cosas nuevas</p>
+    <p>🌎 Me encanta conocer culturas y personas diferentes</p>
+    <p>👪👨‍👧‍👦 Amante de los trabajos en equipo</p>
+    <p>🎸 En mis tiempos libres toco y escucho música</p>
+    </div>
+  <div align="center">
+  <h2>"Si algo te hace incomodar es porque es algo que realmente vale la pena🤸‍♀️"</h2>
+  <h2>¡Trabajemos en equipo!</h2>
     <a href="https://twitter.com/alejandropachem" target="_blank">
       <img
         src="https://img.shields.io/twitter/url?label=follow%20%40alejandropachem&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Falejandropachem"
