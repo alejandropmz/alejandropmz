@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <p>🎸 En mis tiempos libres toco y escucho música</p>
     </div>
   <div align="center">
-  <h2>"Si algo te hace incomodar es porque es algo que realmente vale la pena🤸‍♀️"</h2>
+  <h2>"Si algo te hace incomodar es porque realmente vale la pena🤸‍♀️"</h2>
   <h2>¡Trabajemos en equipo!</h2>
     <a href="https://twitter.com/alejandropachem" target="_blank">
       <img
