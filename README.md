@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <h1>Bienvenido a mi perfil⚡</h1>
     <br>
     <img id="img" src="https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif" alt="">
-    <h3>Print("<i>Alejandro Pacheco</i> Desarrollador de software Full Stack") 🐍</h3>
+    <h3>Print("<i>Alejandro Pacheco</i> Desarrollador de Software Full Stack") 🐍</h3>
   </div>
   <div align="left" class="start">
     <h4>Sobre mí:</h4>
