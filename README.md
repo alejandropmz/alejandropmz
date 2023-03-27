@@ -69,6 +69,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" alt="FLASK" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAL" alt="SQLAL" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40" />
       </div>
     </div>
 
